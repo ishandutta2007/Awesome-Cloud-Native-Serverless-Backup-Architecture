@@ -69,7 +69,7 @@ The table below lists leading SaaS platforms and cloud-native serverless runtime
 
 Curated open-source backup systems, cloud-native storage synchronizers, Kubernetes operators, and serverless automation tooling, ordered descending by GitHub stargazers count:
 
-| Project | Stars | Language | Focus & Architecture Description |
+| Project | GitHub_Stars | Language | Focus & Architecture Description |
 |:---|:---|:---|:---|
 | **[rclone](https://github.com/rclone/rclone)** | [![Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) | Go | 🔄 The "rsync for cloud storage". Synchronizes and backs up data across 70+ cloud providers (S3, GCS, Azure Blob, B2, Wasabi, WebDAV) with built-in chunker, encryption, and bandwidth control; easily packaged into Lambda container images or Kubernetes CronJobs. |
 | **[Serverless Framework](https://github.com/serverless/serverless)** | [![Stars](https://img.shields.io/github/stars/serverless/serverless?style=social&color=white)](https://github.com/serverless/serverless/stargazers) | JavaScript / TypeScript | ⚡ The standard open-source framework for building serverless applications; coordinates event-driven backup pipelines, database snapshot jobs, and multi-region replication scripts across AWS, Azure, and Google Cloud. |
@@ -154,7 +154,7 @@ Contributions are highly encouraged! 🎉 To add or update an entry:
 1. 🍴 Fork this repository.
 2. 📝 Update `README.md` following the established table structure.
 3. 💲 Ensure SaaS additions include verified pricing and free tier/trial details.
-4. ⭐ Ensure open-source additions include valid GitHub URLs and star badges (`style=social&color=white`).
+4. ⭐ Ensure open-source additions include valid GitHub URLs and Stars_Badges (`style=social&color=white`).
 5. 🚀 Submit a pull request with a descriptive title and summary of changes.
 
 ---
