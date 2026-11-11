@@ -1,6 +1,6 @@
 # Awesome-Cloud-Native-Serverless-Backup-Architecture
 
-# Top Cloud-Native Serverless Backup Architecture Ecosystem
+## Top Cloud-Native Serverless Backup Architecture Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Event-Driven Backup Orchestration, Serverless Compute & Cloud-Native Data Protection*  
